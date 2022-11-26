@@ -1,4 +1,5 @@
 import java.util.*;
+//Contributions by Dillon M
 public class knucklebones {
     //declaring the variables, 2D matrix and Scanner
     static int[][] boardStatus = new int[6][3]; 
